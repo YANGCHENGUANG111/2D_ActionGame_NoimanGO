@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: d9831304badf640cf881f8baffd81994
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 280
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f15f576f36e14ff2a4aa4acc1bb7b1b
+      internalID: 1847292100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046d97799d401406cac88b66601f4756
+      internalID: -2016112045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc267ea55a94e8992721f1661fa808
+      internalID: -296125531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 280
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c401417630488eb805a73f639b8da
+      internalID: 1783487615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 280
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae997362ad9646119fa4354f720ff25
+      internalID: 1373978894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 280
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c781c8519f04b4f8966d47e80a5b82
+      internalID: -755577474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 280
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9de38a788184d50afd8de090333bef
+      internalID: -655686533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 198
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7157089e094b2d833633df1d3636d
+      internalID: 1897934908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 198
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c09550bc010946c9a7ac87cfe50938f
+      internalID: -1277361544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 198
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842033de7f2f84b87b75726cc656dc7c
+      internalID: -1464711176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 198
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e6918e184e84308a4be2a5f3ab4125
+      internalID: 261899999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 198
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf454752dc6e46d6820ba188843b4aa
+      internalID: 787168262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 198
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420accce290044175b4683a08a0fe017
+      internalID: 175932119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 198
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5dda80a94a648debceb64a76eb7d6e
+      internalID: -345767619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 198
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df734a05fba4d9c982bb694ab08624
+      internalID: 1021769646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_15
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 198
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a12001343f423ba28fcc870ad1a80
+      internalID: -1542958550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 114
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ace996ac614a1a81345f7dac06196
+      internalID: 1068638185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6b10f3d82144fb887bf17a9148fc47
+      internalID: -1925913521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 114
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199e2d874c3fc42acaa2654a9e7cab16
+      internalID: 1999826748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 114
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633eae3aa842e4fcabed2daa34009a9d
+      internalID: -1780255035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 114
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22eb6ea9ad74be2a7ec5e6b7af54f8
+      internalID: 675162915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 114
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989cf3ca559b4a1aa7055a438ac457f
+      internalID: 1024747408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 114
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fb81693e8e347509143c687f4ec354
+      internalID: -34218121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 114
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c250097c1284e57a44e598906f57ad
+      internalID: 149104501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_24
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 114
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf02bc752a784b42a20aaefd9c3fae4
+      internalID: 891339438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47403a3194db549d089d7126158ed916
+      internalID: 627817188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3795f82951dbd4f5e979a53e05d9202a
+      internalID: -1902788700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c1c024d1d124c6ab89176b9ea84c71
+      internalID: 900203069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 32
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae111bb77276844aea61e240b33d5c53
+      internalID: -961761064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 32
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfe5a2d40c39473da72be584e727765
+      internalID: 1689082998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_30
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 32
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd5e5d7b5a9426fa0c4ed700e317d8
+      internalID: 1724120029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 32
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f98aca32ec874b82b372394c1fd4f94
+      internalID: -849912675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 32
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6420a7f8e698a49c6ab8e21299ac94a5
+      internalID: -2100621673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ma-jyan_pi_dot_33
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 32
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcbded88f76f44fd84af2997979072d
+      internalID: -2002150103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ma-jyan_pi_dot_0: 1847292100
+      ma-jyan_pi_dot_1: -2016112045
+      ma-jyan_pi_dot_10: 261899999
+      ma-jyan_pi_dot_11: 787168262
+      ma-jyan_pi_dot_12: 175932119
+      ma-jyan_pi_dot_13: -345767619
+      ma-jyan_pi_dot_14: 1021769646
+      ma-jyan_pi_dot_15: -1542958550
+      ma-jyan_pi_dot_16: 1068638185
+      ma-jyan_pi_dot_17: -1925913521
+      ma-jyan_pi_dot_18: 1999826748
+      ma-jyan_pi_dot_19: -1780255035
+      ma-jyan_pi_dot_2: -296125531
+      ma-jyan_pi_dot_20: 675162915
+      ma-jyan_pi_dot_21: 1024747408
+      ma-jyan_pi_dot_22: -34218121
+      ma-jyan_pi_dot_23: 149104501
+      ma-jyan_pi_dot_24: 891339438
+      ma-jyan_pi_dot_25: 627817188
+      ma-jyan_pi_dot_26: -1902788700
+      ma-jyan_pi_dot_27: 900203069
+      ma-jyan_pi_dot_28: -961761064
+      ma-jyan_pi_dot_29: 1689082998
+      ma-jyan_pi_dot_3: 1783487615
+      ma-jyan_pi_dot_30: 1724120029
+      ma-jyan_pi_dot_31: -849912675
+      ma-jyan_pi_dot_32: -2100621673
+      ma-jyan_pi_dot_33: -2002150103
+      ma-jyan_pi_dot_4: 1373978894
+      ma-jyan_pi_dot_5: -755577474
+      ma-jyan_pi_dot_6: -655686533
+      ma-jyan_pi_dot_7: 1897934908
+      ma-jyan_pi_dot_8: -1277361544
+      ma-jyan_pi_dot_9: -1464711176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
